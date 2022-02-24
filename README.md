@@ -9,7 +9,7 @@ https://drive.google.com/drive/folders/1YbFmMqgG0Qq6EtCYsEx2vEx8leGUMP8e?usp=sha
 ## References 
 
 [1] Azizan, Navid, Sahin Lale, and Babak Hassibi. "Explicit Regularization via Regularizer Mirror Descent." (2022) [[arXiv]](https://arxiv.org/abs/2202.10788) 
-*An earlier version of this work was presented at the ICML 2020 Workshop on Overparametrization as a spotlight talk.
+*An earlier version of this work was presented at the ICML 2021 Workshop on Overparameterization as a spotlight talk.
 
 
 ## Citation

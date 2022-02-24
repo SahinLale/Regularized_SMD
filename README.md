@@ -11,11 +11,16 @@ https://drive.google.com/drive/folders/1YbFmMqgG0Qq6EtCYsEx2vEx8leGUMP8e?usp=sha
 [1] Azizan, Navid, Sahin Lale, and Babak Hassibi. "Explicit Regularization via Regularizer Mirror Descent." (2022) [[arXiv]](https://arxiv.org/abs/2202.10788) 
 *An earlier version of this work was presented at the ICML 2020 Workshop on Overparametrization as a spotlight talk.
 
+
+## Citation
+
+If you found this library useful in your research, please consider citing
+
+```
 @article{azizan2022explicit,
-      title={Explicit Regularization via Regularizer Mirror Descent}, 
-      author={Navid Azizan and Sahin Lale and Babak Hassibi},
-      year={2022},
-      eprint={2202.10788},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+  title={Explicit Regularization via Regularizer Mirror Descent},
+  author={Azizan, Navid and Lale, Sahin and Hassibi, Babak},
+  journal={arXiv preprint arXiv:2202.10788},
+  year={2022}
 }
+```
